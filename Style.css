@@ -1,0 +1,303 @@
+
+body{
+    background-color:#e1fedf;
+}
+a{
+    text-decoration: none;
+}
+#topbar {
+  background-color:white;
+  border-radius: 5px;
+}
+#circle{
+  background-color: #fff;
+  border-radius:1000px;
+}
+#top_left {
+  color:#117e08;
+  font-family: 'serif';
+  font-size: 1.3em;
+}
+#logo{
+  width: 66px;
+  border-radius: 42px;
+  background-color: #eef0f1;
+  position: absolute;
+  left: 45%;
+  bottom: 95.31%;
+}
+  #contact{
+    width: 27px;
+    border-radius: 18px;
+    position: absolute;
+    left: 84.5%;
+    bottom: 97%;
+  }
+  #topnum{
+    color: #000000;
+    position: absolute;
+    left: 87.4%;
+    bottom: 96.16%;
+  }
+  #top_right{
+    position: absolute;
+    left: 90.008%;
+    bottom:96.5%;
+    font-size: 0.305rem;
+  }
+  #home{
+    position: absolute;
+    left: 85%;
+    bottom: 93%;
+    font-size: 0.78rem;
+    font-weight: 700;
+    font-family: 'Consolas','Times New Roman';
+    color: black;
+  }
+   #cntct{
+    position: absolute;
+    left: 91%;
+    bottom: 93%;
+    font-size: 0.78rem;
+    font-weight: 700;
+    font-family: 'Consolas','Times New Roman';
+    color: black;
+  }
+    #hpyhme{
+    font-family: 'Alegreya', serif;
+    text-align: center;
+    font-size: 5.5rem;
+    font-weight: 1200;
+  }
+  #sub{
+    position: absolute;
+    left: 25.4%;
+    bottom:82.8%;
+    font-size: 1.3em;
+    color: #707070;
+  }
+    #a_2{
+
+    width:45%;
+
+    position: absolute;
+    bottom: 33.0%;
+    left: 29%;
+    border-radius: 15px;
+  }
+      #a_3{
+
+    width:45%;
+
+    position: absolute;
+    bottom: 45%;
+    left: 49%;
+    border-radius: 15px;
+  }
+      #a_1{
+
+
+
+    width:45%;
+    left: 7%;
+    position: absolute;
+    bottom: 45%;
+    border-radius: 15px;
+  }
+  #cnt_head{
+    position:absolute;
+    top:70%;
+    color: #e1fedf;
+    font-size: 1.5em;
+    background-color: #117e08;
+    border-radius: 50px;
+  }
+   .cnt_icons{
+
+    width: 49.0px;
+
+    border-radius: 50.5px;
+    background-color: white;
+  }
+  #cntcticon{
+    position:absolute;
+    top: 74%;
+  }
+  #fb{
+    position:absolute;
+    top:74%;
+    left:68px;
+  }
+   #insta{
+    position:absolute;
+    top:74%;
+    left:128px;
+   }
+    #wtsp{
+    position:absolute;
+    top:74%;
+    left:188px;
+  }
+  #mail{
+    position:absolute;
+    top:74%;
+    left:249px;
+  }
+  #footer{
+    font-size: 0.5rem;
+    position: absolute;
+    top:80%;
+    left: 40%;
+    text-align: center;
+    font-family: Monospace;
+    color: #a9a9a9;
+    font-weight: 700;
+  }
+  
+@media(max-width:940px){
+
+  #logo{
+
+    width:65px;
+    border-radius: 38px;
+    position: absolute;
+    left:44%;
+    bottom:87.1%;
+  }
+  #contact{
+    width: 17px;
+    border-radius: 10px;
+    position: absolute;
+    left: 74%;
+    bottom: 94%;
+  }
+    #topnum{
+    color: #000000;
+    position: absolute;
+    left: 78.65%;
+    bottom: 92.19195%;
+    font-size: 0.578em;
+  }
+  #top_right{
+    position: absolute;
+    left: 80.4189%;
+    bottom:92.383%;
+    font-size: 0.258rem;
+    color: #117e08;
+  }
+   #home{
+    position: absolute;
+    left: 80%;
+    bottom: 84%;
+    font-size: 0.4rem;
+    font-weight: 700;
+    font-family: 'Consolas','Times New Roman';;
+  }
+    #cntct{
+    position: absolute;
+    left: 87%;
+    bottom: 84%;
+    font-size: 0.4rem;
+    font-weight: 700;
+    font-family: 'Consolas','Times New Roman';
+    color: black;
+  }
+  #hpyhme{
+    font-family: 'Alegreya', serif;
+    font-size: 2.5rem;
+  }
+  #sub{
+
+    text-align:center;
+
+    font-size:0.6rem;
+    position:absolute;
+    bottom:68.2%;
+    left:18.75%;
+  }
+  .image{
+    width: 55%;
+  }
+    #a_2{
+
+    border-radius: 20px;
+    position: absolute;
+    bottom:18.9%;
+    left: 28.71%;
+  }
+    #a_3{
+    border-radius: 20px;
+    position: absolute;
+    top:48%;
+    left: 47.1%;
+  }
+    #a_1{
+    border-radius: 30px;
+    position:absolute;
+    top: 43%;
+    left: 5%;
+  }
+  #cnt_head{
+    position:absolute;
+    top:90%;
+    color: #e1fedf;
+    font-size: 1.2rem;
+    background-color: #117e08;
+    border-radius: 50px;
+  }
+  .cnt_icons{
+    width: 18.0px;
+    border-radius: 18.5px;
+    background-color: white;
+  }
+  #cntcticon{
+    position:absolute;
+    top: 97.8%;
+  }
+  #fb{
+    position:absolute;
+    top:97.8%;
+    left:38px;
+  }
+   #insta{
+    position:absolute;
+    top:97.8%;
+    left:68px;
+   }
+    #wtsp{
+    position:absolute;
+    top:97.8%;
+    left:98px;
+  }
+  #mail{
+    position:absolute;
+    top:97.8%;
+    left:129px;
+  }
+  #footer{
+    font-size: 0.5rem;
+    position: absolute;
+    top:100%;
+    left: 25.0%;
+    text-align: center;
+    font-family: Monospace;
+    color: #a9a9a9;
+    font-weight: 700;
+  }
+ 
+}
+@media(orientation:landscape){
+/* h1,img,a,h2,h4,h5,h6{
+   display:none;
+  background-color: white;
+}
+h3{
+  background-color: #ff0a0a;
+  color: white;
+  text-align: center;
+  border-radius: 59%;
+}*/
+*{
+  display: none;
+}
+}
